@@ -1,0 +1,3 @@
+task printSomething{
+    println "This is mytask gradle file"
+}
